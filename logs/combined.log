@@ -103,3 +103,6 @@
 {"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:59:14","version":"1.0.0"}
 {"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:59:22","version":"1.0.0"}
 {"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:59:30","version":"1.0.0"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:59:38","version":"1.0.0"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:59:46","version":"1.0.0"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:59:55","version":"1.0.0"}
