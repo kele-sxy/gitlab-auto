@@ -56,3 +56,4 @@
 {"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:43:50","version":"1.0.0"}
 {"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:43:58","version":"1.0.0"}
 {"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:44:06","version":"1.0.0"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"gitlab-auto-review","timestamp":"2025-09-03 10:44:14","version":"1.0.0"}
